@@ -5,7 +5,7 @@ public class aluraGit {
 		System.out.println("Comparando se 1 é maior que 0");
 		if(1>0) {
 			
-			System.out.println("1 é maior que 0");
+			System.out.println("O número 1 é maior que o número 0. Assim como qualquer outro número inteiro positivo");
 		}		
 	}
 
